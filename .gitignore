@@ -2,3 +2,12 @@
 Thumbs.db
 *.log
 *.tmp
+*.env
+.env
+*.env*
+.env.*
+salida/
+.venv/
+__pycache__/
+*.mp4
+*.wav

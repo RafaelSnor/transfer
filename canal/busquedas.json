@@ -1,0 +1,23 @@
+{
+  "_info": "Cada clave es un pedazo de texto de una nota [IMAGEN: ...] del guion. El valor es la lista de búsquedas en inglés para Pixabay, en orden de preferencia. Si una nota no aparece aquí, se busca con su propio texto.",
+  "dron sobre selva infinita": ["amazon rainforest aerial", "jungle drone"],
+  "río marrón, curvas cerradas": ["amazon river aerial", "river jungle fog"],
+  "hojas, insectos, agua": ["rainforest leaves rain", "insect leaf macro", "jungle water drops"],
+  "bote peque-peque": ["boat river jungle", "canoe amazon river"],
+  "rápidos, agua blanca": ["river rapids canyon", "whitewater gorge"],
+  "montañas nevadas": ["andes mountains aerial", "snow mountains clouds aerial"],
+  "bosque de nubes, musgo": ["cloud forest fog", "misty forest moss"],
+  "dosel visto desde arriba": ["rainforest canopy aerial", "jungle trees from above"],
+  "colinas triangulares": ["jungle hills aerial", "green hills fog aerial"],
+  "barco antiguo a vapor": ["old steamboat river", "vintage boat river"],
+  "gente cargando troncos": ["jungle logs", "dense jungle path"],
+  "jaguar caminando": ["jaguar", "anaconda", "caiman"],
+  "serpiente de colores tierra": ["snake forest floor", "viper snake leaves"],
+  "hormiga grande negra": ["ant macro", "ants jungle"],
+  "mosquitos sobre agua": ["mosquito", "swamp sunset"],
+  "vapor saliendo de un río": ["hot spring steam river", "steam water forest"],
+  "científico midiendo agua": ["scientist water sample", "researcher forest"],
+  "canoa vacía en la orilla": ["canoe river dawn", "river bank sunrise jungle"],
+  "río ancho y selva intacta": ["amazon river aerial", "wide river rainforest"],
+  "atardecer sobre el río": ["river sunset jungle aerial", "sunset rainforest drone"]
+}
